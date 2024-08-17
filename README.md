@@ -9,6 +9,7 @@ Welcome to the Mini Game repository! This project is a simple and fun game devel
 - [Installation](#installation)
 - [Usage](#usage)
 - [Scripts Overview](#scripts-overview)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
@@ -80,6 +81,17 @@ Manages the game timer and transitions to the score scene when the time is up.
 
 Handles the collision between food and animals, updates the score, and destroys the objects.
 
+## Screenshots
+
+### Home Screen
+![Home Screen](./Assets/GamePlayScreenShots/home.png)
+
+### Game Screen
+![Game Screen](./Assets/GamePlayScreenShots/game.png)
+
+### Score Screen
+![Score Screen](./Assets/GamePlayScreenShots/score.png)
+
 ---
 
-Thank you for checking out the Mini Game! If you have any questions or feedback, feel free to open an issue or contact me.
+Thank you for checking out the Mini Game! If you have any questions or feedback, feel free to open an issue or contact the repository owner.
